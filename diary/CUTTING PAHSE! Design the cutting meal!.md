@@ -2,7 +2,7 @@
 
 ## Nutritional table
 
-|                Food                | Energy (per 100g or per 100ml) | Protein (per 100g or per 100ml) | Fat (per 100g or per 100ml) | Carbohydrate (per 100g or per 100ml) |
+|                Food                | Energy (per 100g) | Protein (per 100g) | Fat (per 100g) | Carbohydrate (per 100g) |
 | :--------------------------------: | :----------------------------: | :-----------------------------: | :-------------------------: | :----------------------------------: |
 |          Broccoli, cooked          |             29kcal             |              3.2g               |            0.1g             |                 2.0g                 |
 |        Whey Protein Powder         |            1593kcal            |               76g               |            1.4g             |                 4.7g                 |
